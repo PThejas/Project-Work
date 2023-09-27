@@ -14,5 +14,5 @@ def show_employee(ename, sal):
     print('Salary : ' + str(sal))
     print("Grade : " + grade)
 
-show_employee('ABC',1000)
+show_employee('DEF',100000)
 
