@@ -1,0 +1,6 @@
+#cust_id,location
+101,Blr
+102,Che
+103,AP
+201,va
+202,md
